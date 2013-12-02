@@ -1,13 +1,13 @@
-## Nichols & Treadwell, LLC
+## {{company.name}}
 
-315 N CLINTON AVE
-DALLAS TX, 75208
+{{company.address.line_1}}
+{{company.address.line_2}}
 
-214-405-2142
+{{company.phone}}
 
-troygnichols@gmail.com
+{{company.email}}
 
-Dec 2, 2013
+{{contract_date}}
 
 ###Summary:
 
