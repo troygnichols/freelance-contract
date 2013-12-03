@@ -2,10 +2,9 @@
 
 FILENAME=CONTRACT
 TEMPLATE_FILE=custom.json
-OUTFILE="formats/$FILENAME.pdf"
+OUTFILE="formats/$FILENAME.docx"
 
 handlebars $TEMPLATE_FILE < CONTRACT.md | pandoc -o $OUTFILE
 
 echo "Saved pdf file to: $OUTFILE"
 
-open $OUTFILE

@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name": "Nichols & Treadwell, LLC",
+    "agent": "Troy Nichols",
+    "address": {
+      "line_1": "315 N Clinton Ave",
+      "line_2": "Dallas, TX 75208"
+    },
+    "city_area": "DFW",
+    "phone": "214-405-2142",
+    "email": "troygnichols@gmail.com"
+  },
+  "client": {
+    "name": "J.R. Slider and Associates, LLC",
+    "agent": "Jennifer Slider"
+  },
+  "project": {
+    "contract_date": "Dec 2, 2013",
+    "description": "build a marketing website",
+    "payment_scheme": "for the flat fee of",
+    "rate": "$5,000.00",
+    "deposit": "$0.00",
+    "start_date": "Jan 1, 2014",
+    "end_date": "the project is completed to your satisfaction, which we commit to achieving by March 31 (though hopefully much sooner)",
+    "planscope_url": "https://planscope.io/projects/jr-slider-website"
+  }
+}
