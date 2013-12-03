@@ -6,5 +6,5 @@ OUTFILE="formats/$FILENAME.docx"
 
 handlebars $TEMPLATE_FILE < CONTRACT.md | pandoc -o $OUTFILE
 
-echo "Saved pdf file to: $OUTFILE"
+echo "Saved file to: $OUTFILE"
 
