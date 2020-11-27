@@ -1,0 +1,27 @@
+{
+  "company": {
+    "name": "Troy Nichols, Sole Proprietor",
+    "agent": "Troy Nichols",
+    "address": {
+      "line_1": "182 Hester Street, Apt 20",
+      "line_2": "New York, NY 10013"
+    },
+    "city_area": "NYC",
+    "phone": "214-405-2142",
+    "email": "troygnichols@gmail.com"
+  },
+  "client": {
+    "agent": "Byron Appelt",
+    "name": "Succinct Software Solutions"
+  },
+  "project": {
+    "contract_date": "Nov 26, 2020",
+    "description": "complete a beta version of the Chronos/TimeUpTop time tracking MacOS app",
+    "payment_scheme": "for the flat fee of",
+    "rate": "$1,650.00",
+    "deposit": "$0.00",
+    "start_date": "Nov 26, 2020",
+    "end_date": "the project is completed to your satisfaction, which we commit to achieving by January 31",
+    "planscope_url": "https://trello.com/b/GdruxWdk/development"
+  }
+}
