@@ -86,7 +86,7 @@ You own the graphics and other visual elements that we create for you for this p
 
 You also own text content, photographs and other data you provided, unless someone else owns them. We own the code we produced and we retain the rights to license it how we choose or to contribute it back to the open source project which it is based on.
 
-We love to show off our work and share what we have learned with other people, so we also reserve the right to display and link to your completed project as part of our portfolio and to write about the project on web sites, in magazine articles and in books as well as speak about them publicly at conferences. Of course we’re happy to keep this information to ourselves until your project goes live or 6 months from the handover date, whichever is sooner.
+You own the code that we write for you and contribute to this project.
 
 ### Payments
 
